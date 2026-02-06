@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suchanek
 - 👀 I’m interested in machine learning, structural biophysics, astrophysics, music and cognition in general.
-- 🌱 I’m currently developing ProteusPy to do disulfide bond analysis on proteins in the RCSB database.
+- 🌱 I’m currently developing Personal Agent - a large agentic system for the preservation of individual memories and knowledge running on local hardware.
 - 💞️ I’m looking to collaborate on the development of computational models of cognition based on the topology of neurons in the brain.
 - 📫 If you'd like to reach me, feel free to email: suchanek@mac.com.
 <!---
